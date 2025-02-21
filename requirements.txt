@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+wordcloud
+janome
+transformers
+torch
+fugashi
+unidic_lite
+sentiment_analysis
